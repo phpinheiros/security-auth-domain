@@ -9,7 +9,7 @@
         {"name": "Vinicius de Sa", "email": "viniciusss@me.com"}
     ],
     "require": {
-        "phpinheiros/infrastructure-doctrine": "v1.0"
+        "phpinheiros/infrastructure-doctrine": "1.0.*@dev"
     },
     "require-dev": {},
     "autoload": {
